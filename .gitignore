@@ -1,4 +1,4 @@
-# Ignore all data files except .zip archives
+# Ignore all data files including .zip archives
 
 # Ignore model weights and checkpoints
 *.pth
@@ -8,13 +8,13 @@
 *.jpg
 *.png
 
+# Ignore all zip files (including dataset archives)
+*.zip
+
 # Ignore dataset and augmentation folders
 Brain-Tumor-Detection-Dataset/
 augmented_data/
 combined_data/
-
-# Allow zip files
-!*.zip
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/ 
