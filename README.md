@@ -183,21 +183,6 @@ Brain_Tumor_detection_IA/
 - **Specificity**: True negatives / (True negatives + False positives)
 - **F1-Score**: Harmonic mean of precision and recall
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Guidelines
-- Follow PEP 8 style guidelines
-- Add comments to complex code sections
-- Update documentation for new features
-- Test your changes thoroughly
-
-
 ---
 
 **Note**: This project is for educational and research purposes. For clinical applications, please consult with medical professionals and ensure proper validation protocols are followed. 
